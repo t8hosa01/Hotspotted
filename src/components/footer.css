@@ -1,0 +1,9 @@
+.footerLuokka{
+    text-align: center;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#b6e1e0;
+    max-width: 1050px;
+    margin-top: 10px;
+    border-radius: 5px;
+}

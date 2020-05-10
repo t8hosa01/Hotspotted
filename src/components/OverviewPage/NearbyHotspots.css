@@ -1,0 +1,22 @@
+.nearby-header {
+  background-color: #9cd3d3;
+  font-weight: 550;
+  margin-left: -1rem;
+  margin-right: -1rem;
+  margin-top: -1rem;
+  margin-bottom: 0.5rem;
+}
+
+.nearby-list ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.hotspot-item {
+  background-color: #9cd3d3;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}

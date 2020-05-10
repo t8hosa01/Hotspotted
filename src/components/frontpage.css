@@ -1,0 +1,17 @@
+.jumbotronLuokka{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 1050px;
+    margin: 0 auto;
+    background-color: #b6e1e0;
+    margin-top: 80px;
+}
+.errorMessageStyling{
+    background-color: #f3efef;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.containerStylingFP{
+    min-height: 100vh;
+    background-color: #d7f1f1;
+    /*padding-top: 10px;*/
+}

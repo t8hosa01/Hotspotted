@@ -1,0 +1,42 @@
+.navitem {
+    border: 0px;
+}
+
+.custombg-primary {
+    background-color: #b6e1e0;
+}
+
+.custombg-secondary {
+    background-color: #9cd3d3;
+}
+
+.btn-customorange {
+    background-color: #e8630a;
+    color: #ffffff;
+    transition:0.3s;
+    width: 6rem;
+    margin-left: 1rem;
+}
+
+.btn-customorange:hover {
+    color: #ffffff;
+    background-color:#ac4907;
+}
+
+.navbar-customdark {
+    background-color: #2b4353;
+}
+
+.customseparator {
+    margin-right: 40px;
+    margin-left: 40px;
+    padding: 0px;
+}
+
+.custombtn {
+    transition:0.3s;
+}
+
+.custombtn:hover {
+    background-color: #ac4907;
+}

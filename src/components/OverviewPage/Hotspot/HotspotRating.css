@@ -1,0 +1,96 @@
+.hotspot-rating {
+  margin-left: 1rem;
+  padding-left: 0.5rem;
+  margin-top: 0.5rem;
+  border: 1px solid black;
+  background-color: #9cd3d3;
+  border-radius: 5px;
+  font-weight: 500;
+  width: 45%;
+}
+
+.rating-header {
+  background-color: #9cd3d3;
+  font-weight: 550;
+  border-bottom: 1px solid black;
+  margin-left: -0.5rem;
+  
+}
+
+.avg-rating {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.rating-details-icon {
+  color: yellow;
+  margin-left: 0.rem;
+}
+
+
+.rated-by {
+  border-top: 1px solid black;
+  margin-top: 0.5rem;
+  margin-left: -0.5rem;
+  padding-left: 0.5rem;
+}
+
+.rate-button {
+  margin-left: 2rem;
+  background-color: #e8630a;
+  color: #ffffff;
+  transition: 0.3s;
+  width: 50px;
+  height: 40px;
+}
+.rating-actions {
+  display: flex;
+  margin-top: 2rem;
+  padding-top: 0.5rem;
+  padding-left: 2rem;
+  margin-left: -0.5rem;
+  border-top: 1px solid black;
+}
+
+
+
+.star-rating {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.star {
+  cursor: pointer;
+  width: 2em;
+  height: 2em;
+  background-color: grey;
+  -webkit-clip-path: polygon(
+    50% 0%,
+    63% 38%,
+    100% 38%,
+    69% 59%,
+    82% 100%,
+    50% 75%,
+    18% 100%,
+    31% 59%,
+    0% 38%,
+    37% 38%
+  );
+  clip-path: polygon(
+    50% 0%,
+    63% 38%,
+    100% 38%,
+    69% 59%,
+    82% 100%,
+    50% 75%,
+    18% 100%,
+    31% 59%,
+    0% 38%,
+    37% 38%
+  );
+}
+
+.star.selected {
+  background-color: #e8630a;
+}

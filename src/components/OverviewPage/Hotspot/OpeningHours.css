@@ -1,0 +1,33 @@
+.opening-container {
+    border: 0px solid green;
+}
+
+.opening-header {
+    background-color: #9cd3d3;
+    font-weight: 550;
+    margin-left: -1rem;
+    margin-right: -1rem;
+    margin-bottom: 0.5rem;
+}
+
+
+.opening-table {
+    border: 0px solid black;
+}
+
+.opening-weekday {
+    padding-right: 0.5rem;
+    border-right: 2px solid #9cd3d3;
+}
+
+.info {
+    background-color: #9cd3d3;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.opening-hours {
+    padding-left: 1rem;
+}

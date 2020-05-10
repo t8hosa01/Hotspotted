@@ -1,0 +1,38 @@
+.openingHours-container {
+  max-width: 250px;
+  height: 300px;
+  overflow: visible; 
+  padding-top: 0rem;
+}
+
+.hotspotInfo-container {
+  background-color: #b6e1e0;
+  margin-left: 1rem;
+  padding-top: 1rem;
+}
+
+.nearbyHotspots-container {
+  max-width: 250px;
+  max-height: 375px;
+  margin-top: 1rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.hotspotComments-container {
+  background-color: #b6e1e0;
+  margin-left: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 20rem;
+}
+
+.border-custom {
+  border: 2px solid #9cd3d3;
+}
+
+.containerStyling{
+  background-color: #cdf0f0;
+  border: 2px solid #9cd3d3;
+}
+
+
